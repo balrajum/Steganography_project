@@ -1,4 +1,5 @@
-*"Steganography Project"*
+Steganography Project
+
 Introduction
 Steganography is the practice of hiding information within another medium to prevent detection.
 The word originates from Greek — "stegano" meaning hidden, and "graphy" meaning writing.
